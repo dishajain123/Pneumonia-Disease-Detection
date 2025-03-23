@@ -27,7 +27,8 @@ The trained model (best_model.h5) connects these components, being developed in 
 
 ### Patient Dashboard
 
-![Screenshot 2025-03-23 004602](https://github.com/user-attachments/assets/59d04c6f-919f-4360-8131-48f233011517)             ![Screenshot 2025-03-23 004917](https://github.com/user-attachments/assets/80f683d6-015e-4d20-8f13-1dabbc1cdd32)
+![Screenshot 2025-03-23 004602](https://github.com/user-attachments/assets/59d04c6f-919f-4360-8131-48f233011517)            
+![Screenshot 2025-03-23 004917](https://github.com/user-attachments/assets/80f683d6-015e-4d20-8f13-1dabbc1cdd32)
 
 ### Diagnosis Tracking
 
